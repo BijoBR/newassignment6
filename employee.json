@@ -1,0 +1,44 @@
+
+{
+   "employee": [  
+    
+    {
+        "Name":"Jhon", 
+        "DOB": "26/11/1997", 
+        "Height":"176cm", 
+        "City": "Bangaore", 
+        "State": "karnataka"
+    },
+
+    {
+        "Name":"kom", 
+        "DOB": "26/11/1997", 
+        "Height":"176cm", 
+        "City": "Bangaore", 
+        "State": "karnataka"
+    },
+    {
+        "Name":"sam", 
+        "DOB": "21/10/1982", 
+        "Height":"177cm", 
+        "City": "chennai", 
+        "State": "Tamil Nadu"
+    },
+    {
+        "Name":"ram", 
+        "DOB": "2/3/1977", 
+        "Height":"166cm", 
+        "City": "hyderabad", 
+        "State": "telungan"
+    },
+    {
+        "Name":"vicky", 
+        "DOB": "6/4/1969", 
+        "Height":"172cm", 
+        "City": "amaravathi", 
+        "State": "Andhra pradesh"
+    }
+
+]
+
+}    
